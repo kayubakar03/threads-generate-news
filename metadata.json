@@ -1,0 +1,6 @@
+{
+  "name": "News to Threads AI Generator",
+  "description": "Transform any news article URL or text into viral, ready-to-post Threads and X social threads using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
